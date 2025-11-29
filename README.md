@@ -8,4 +8,4 @@ function isPrime(n) {
   return true;
 }
 
-console.log(isPrime(17));
+consol.log(isPrime(17));
